@@ -1,0 +1,17 @@
+id_evento,frame,id_track,velocidad_m_s,intensidad,razon,x1,y1,x2,y2
+1,81,1,3.495,fuerte,clamped_delta_d,284,291,484,462
+2,110,2,0.191,leve,clamped_delta_d,216,294,407,468
+3,137,3,0.061,leve,ok,300,295,487,472
+4,169,4,0.191,leve,clamped_delta_d,228,300,418,477
+5,195,5,0.000,leve,ok,301,299,490,474
+6,226,6,0.194,leve,clamped_delta_d,244,300,420,479
+7,226,7,0.179,leve,ok,243,300,591,483
+8,254,8,0.191,leve,clamped_delta_d,313,308,491,482
+9,284,9,0.191,leve,clamped_delta_d,239,303,423,478
+10,314,10,0.008,leve,ok,302,301,482,473
+11,365,11,5.242,fuerte,clamped_delta_d,217,290,402,461
+12,415,12,3.385,fuerte,ok,292,288,465,458
+13,461,13,3.495,fuerte,clamped_delta_d,220,287,402,457
+14,507,14,5.203,fuerte,ok,288,271,470,448
+15,553,15,2.621,fuerte,clamped_delta_d,208,261,410,436
+16,597,16,2.820,fuerte,ok,293,258,479,430
